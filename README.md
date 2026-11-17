@@ -43,6 +43,8 @@ Because the harness is config-driven, trying a different model or adding a tool 
 
 Shared mock tools used across modules live in [`samples/shared/`](./samples/shared/).
 
+Looking to adapt the harness to your own domain? [`samples/recruiter-finder/`](./samples/recruiter-finder/) is a complete custom build — a recruiter search-and-outreach agent with the same loop, hooks, skills, steering, and session memory, plus the Module 5 AgentCore entrypoint.
+
 ---
 
 ## How do I get started?
